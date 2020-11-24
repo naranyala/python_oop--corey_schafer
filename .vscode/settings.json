@@ -1,5 +1,5 @@
 {
-   "python.formatting.provider": "black",
+   "python.formatting.provider": "autopep8",
    "python.pythonPath": "C:\\Users\\NARANYALA\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
    "compile-hero.disable-compile-files-on-did-save-code": true
 }
